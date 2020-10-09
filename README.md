@@ -11,3 +11,4 @@
 
 - [Website](https://github.com/guitsaru/website): A blog that stores articles as markdown files in the repo.
 - [RestClient](https://github.com/guitsaru/rest_client): A Phoenix LiveView REST API client.
+- [Exner](https://github.com/guitsaru/exner): A (work in progress) chess engine written in Elixir.
